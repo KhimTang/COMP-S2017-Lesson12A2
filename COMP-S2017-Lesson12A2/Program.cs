@@ -4,6 +4,15 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+/*
+ * Name: Khim Tang
+ * StudentID: 300920672
+ * Date: August 03. 2017
+ * Description: Calculator App with Windows Forms
+ * Version: 0.1 - Project was Created
+*/
+
+
 namespace COMP_S2017_Lesson12A2
 {
     static class Program
