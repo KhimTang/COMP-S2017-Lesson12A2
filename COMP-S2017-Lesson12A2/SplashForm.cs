@@ -11,21 +11,21 @@ using System.Windows.Forms;
 /*
  * Name: Khim Tang
  * StudentID: 300920672
- * Date: August 03. 2017
- * Description: Calculator App with Windows Forms
- * Version: 0.1 - Project was Created
+ * Date: August 08. 2017
+ * Description: This my SplashForm class that appears for 3 seconds
+ * Version: 0.1 - Created SplashForm class
 */
 
 namespace COMP_S2017_Lesson12A2
 {
-    public partial class Calculator : Form
+    public partial class SplashForm : Form
     {
-        public Calculator()
+        public SplashForm()
         {
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void SplashForm_Load(object sender, EventArgs e)
         {
 
         }

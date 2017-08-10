@@ -7,9 +7,9 @@ using System.Windows.Forms;
 /*
  * Name: Khim Tang
  * StudentID: 300920672
- * Date: August 03. 2017
+ * Date: August 08. 2017
  * Description: Calculator App with Windows Forms
- * Version: 0.1 - Project was Created
+ * Version: 0.2 - Project was Created
 */
 
 
@@ -25,7 +25,7 @@ namespace COMP_S2017_Lesson12A2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Calculator());
         }
     }
 }
